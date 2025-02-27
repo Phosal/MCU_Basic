@@ -8,3 +8,4 @@
 <img src="D:\Code\MarkdownNote\MCU_Basic\文档所用图片\GPIO图解1.png">
 <img src="https://github.com/Phosal/MCU_Basic/blob/master/%E6%96%87%E6%A1%A3%E6%89%80%E7%94%A8%E5%9B%BE%E7%89%87/GPIO%E5%9B%BE%E8%A7%A31.png">
 <img src="D:\Code\MarkdownNote\MCU_Basic\文档所用图片\GPIO图解2.png">
+<img src="https://github.com/Phosal/MCU_Basic/blob/master/%E6%96%87%E6%A1%A3%E6%89%80%E7%94%A8%E5%9B%BE%E7%89%87/GPIO%E5%9B%BE%E8%A7%A32.png">
