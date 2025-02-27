@@ -5,5 +5,5 @@
 
 ### GPIO内部结构
 
-![GPIO图解1](D:\Code\MarkdownNote\MCU_Basic\文档所用图片\GPIO图解1.png)
-![GPIO图解2](D:\Code\MarkdownNote\MCU_Basic\文档所用图片\GPIO图解2.png)
+<img src="D:\Code\MarkdownNote\MCU_Basic\文档所用图片\GPIO图解1.png">
+<img src="D:\Code\MarkdownNote\MCU_Basic\文档所用图片\GPIO图解2.png">
